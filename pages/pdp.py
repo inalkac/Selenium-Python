@@ -20,4 +20,3 @@ class ProductDetailPage(BasePage):
                     options[1].set_attribute("selected")
                 else:
                     break
-                print("variations")
